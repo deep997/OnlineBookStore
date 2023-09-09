@@ -71,7 +71,7 @@ if(isset($message)){
 <div class="form-container">
 
    <form action="" method="post">
-      <h3>DEEP tailor</h3>
+      <h3>login form</h3>
       <input type="email" name="email" placeholder="enter your email" required class="box">
       <input type="password" name="password" placeholder="enter your password" required class="box">
       <input type="submit" name="submit" value="login now" class="btn">
